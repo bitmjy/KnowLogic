@@ -16,7 +16,7 @@ The official repository of the KnowLogic Benchmark 📊
 
 Our benchmark **KnowLogic** is generated through a knowledge-driven synthetic data strategy, which integrates diverse commonsense knowledge, plausible scenarios, and various types of logical reasoning. One of the key advantages of KnowLogic is its adjustable difficulty levels, allowing for flexible control over question complexity. It also includes fine-grained labels for in-depth evaluation of LLMs' reasoning abilities across multiple dimensions. Our benchmark consists of 3,000 bilingual (Chinese and English) questions across various domains. 🌍  
 
-![Dynamic Data Synthesis](https://github.com/pokerwf/KnowLogic/blob/main/images/Overall.jpg) 📈  
+![Dynamic Data Synthesis](https://github.com/pokerwf/KnowLogic/blob/main/image/Overall.jpg) 📈  
 
 ---
 
