@@ -16,7 +16,7 @@ The official repository of the KnowLogic Benchmark 📊
 
 Our benchmark **KnowLogic** is generated through a knowledge-driven synthetic data strategy, which integrates diverse commonsense knowledge, plausible scenarios, and various types of logical reasoning. One of the key advantages of KnowLogic is its adjustable difficulty levels, allowing for flexible control over question complexity. It also includes fine-grained labels for in-depth evaluation of LLMs' reasoning abilities across multiple dimensions. Our benchmark consists of 3,000 bilingual (Chinese and English) questions across various domains. 🌍  
 
-![Dynamic Data Synthesis](https://github.com/pokerwf/KnowLogic/blob/main/image/Overall.jpg) 📈  
+![Dynamic Data Synthesis](https://github.com/pokerwf/KnowLogic/blob/main/image/Overall.jpg)   
 
 ---
 
@@ -32,7 +32,7 @@ The Question Generator takes the fact set and the ground-truth arrangement of en
 ---
 
 ## Overall Evaluation on Different Models 📊  
-![Overall Evaluation on Different Models](https://github.com/pokerwf/KnowLogic/blob/main/image/evaluation.jpg) 🏆  
+![Overall Evaluation on Different Models](https://github.com/pokerwf/KnowLogic/blob/main/image/evaluation.jpg)   
 
 Among the models tested, O1-Preview achieves the highest performance. 🥇 In contrast, DeepSeek-R1, the top-performing open-source model, underperforms relative to the closed-source models. Overall, our benchmark remains a challenging test, effectively highlighting the limitations of current models across various domains. Notably, LLMs specifically trained for inference tend to outperform general LLMs within the same family when tackling such complex questions. 🤔  
 
@@ -41,7 +41,7 @@ Among the models tested, O1-Preview achieves the highest performance. 🥇 In co
 ## Knowledge Entries 📚  
 Knowledge entries written by human in four knowledge bases. The $X$ and $Y$ in the entry are placeholders for entities that can be filled in. The $A$ and $B$ are for events. The $T$ is for the times. The $V$ is for the value of natural properties. 🌟  
 
-![Knowledge Entries](https://github.com/pokerwf/KnowLogic/blob/main/image/knowledge_entity.jpg) 📖  
+![Knowledge Entries](https://github.com/pokerwf/KnowLogic/blob/main/image/knowledge_entity.jpg)   
 
 --- 
 
